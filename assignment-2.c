@@ -56,7 +56,7 @@ int main() {
 //	
 //	float temp_in_c = (temp_in_fh - 32) * (float) 5 / 9;
 //	
-//	printf("The temperature in fahrenheit is %.2f", temp_in_c);
+//	printf("The temperature in celsius is %.2f", temp_in_c);
 	
 	// Simple calculator
 	
